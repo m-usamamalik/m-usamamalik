@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/m-usamamalik/m-usamamalik/blob/main/Github.png" width="1200" alt="logo">
-</p>
 
 <p align="center">
   <img src="hi_usama_banner.gif" width="100%" alt="Hi, I'm Usama Malik - animated intro">
