@@ -53,7 +53,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+ 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
@@ -61,12 +61,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030b1a,15:0e2a5c,45:0e75b6,75:2ea8ff,100:6dd5fa&height=3&width=1200" width="100%"/>
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-usamamalik&show_icons=true&locale=en&theme=default" alt="Usama's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-usamamalik&show_icons=true&locale=en&layout=compact" alt="Top languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-usamamalik&show_icons=true&locale=en&count_private=true&hide_border=true&bg_color=0d1117&title_color=2ea8ff&icon_color=6dd5fa&text_color=cdeafe" alt="Usama's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-usamamalik&locale=en&layout=compact&hide_border=true&bg_color=0d1117&title_color=2ea8ff&text_color=cdeafe" alt="Top languages" width="49%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-usamamalik" alt="GitHub streak stats" />
 </p>
