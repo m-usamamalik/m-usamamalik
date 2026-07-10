@@ -4,18 +4,20 @@
 </p>
 
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030b1a,15:0e2a5c,45:0e75b6,75:2ea8ff,100:6dd5fa&height=260&section=header&text=Hi%20there,%20I'm%20Usama%20Malik&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Automation%20Engineer%20%26%20Full%20Stack%20Developer%20%E2%9C%A8&descAlignY=58&descSize=18&descColor=cdeafe" width="100%" alt="header banner"/>
+  <img src="usama_fut_card.png" width="320" alt="Usama Malik stat card">
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=680&lines=AI+Automation+Engineer+%26+Full+Stack+Developer;Building+AI+Agent+Platforms+%26+Workflow+Automation;Python+%2C+FastAPI+%2C+React+%2C+React+Flow;Turning+ideas+into+intelligent+products+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m-usamamalik&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://linkedin.com/in/usama-malik"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/usamamalik-mern-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:usama.malik100@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -23,9 +25,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" alt="coding animation">
 </p>
 
-<p align="center">
-  <img src="usama_fut_card.png" width="320" alt="Usama Malik stat card">
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030b1a,15:0e2a5c,45:0e75b6,75:2ea8ff,100:6dd5fa&height=3&width=1200" width="100%"/>
 
@@ -76,7 +75,7 @@
 
 <h3 align="center">🔗 Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/usama-malik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
+  <a href="https://www.linkedin.com/in/usamamalik-mern-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
   <a href="https://fb.com/usama.malik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" /></a>
   <a href="https://instagram.com/m_usama_here" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" /></a>
 </p>
